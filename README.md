@@ -1,6 +1,10 @@
 # LAB 0
 
-How to read a text file from hard-disk. This lab is optional for those who are not fully confident about their programming skills. There is nothing specific to be done in this lab more than reading a text file from HD word by word, which is the most basic skill you need to have to be able to take the course.
+How to read a text file from hard-disk. 
+
+This lab is optional for those who are not fully confident about their programming skills. 
+
+There is nothing specific to be done in this lab more than reading a text file from HD word by word, which is the most basic skill you need to have to be able to take the course.
 
 # PROGRAMMING LANGUAGES
 
