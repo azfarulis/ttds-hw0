@@ -27,5 +27,5 @@ write_file = datafolder + 'king-james-2020.txt'
 
 with open(write_file, 'w', encoding='utf-8-sig') as writer:
     for value in book_dict.values():
-        writer.write(value.lower())
+        _ = writer.write(value.lower())
 
